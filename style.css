@@ -1,5 +1,5 @@
 .nav {
-    background-color: yellow; 
+    background-color: rgb(0, 255, 221); 
     list-style-type: none;
     text-align: center;
     margin: 0;
@@ -8,6 +8,6 @@
   
   .nav li {
     display: inline-block;
-    font-size: 20px;
-    padding: 20px;
+    font-size: 30px;
+    padding: 25px;
   }
